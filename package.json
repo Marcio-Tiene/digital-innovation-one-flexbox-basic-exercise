@@ -1,0 +1,9 @@
+{
+  "name": "instagram-exercise",
+  "version": "1.0.0",
+  "description": "Assignment of the digital inovation one's html,css course",
+  "main": "index.js",
+  "author": "Marcio Tiene <marciorft@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
